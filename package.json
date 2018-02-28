@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "author": "",
+  "name": "mypuppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cucumber-js"
+  },
+  "dependencies": {
+    "babel-core": "6.26.0",
+    "babel-preset-env": "1.6.0",
+    "chai": "4.1.2",
+    "cucumber": "3.0.3",
+    "lodash": "^4.17.5",
+    "puppeteer": "1.1.1",
+    "require-glob": "^3.2.0"
+  }
+}
